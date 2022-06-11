@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "strict": true,
+    "strictNullChecks": true,
+    "resolveJsonModule": true,
+    "types": [
+      "unplugin-vue2-script-setup/types"
+    ]
+  },
+  "vueCompilerOptions": {
+    "experimentalCompatMode": 2
+  }
+}
